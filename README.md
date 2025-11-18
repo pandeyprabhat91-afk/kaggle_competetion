@@ -7,7 +7,7 @@ The system processes 768-dimensional embeddings from `google/embeddinggemma-300m
 
 ---
 
-## **📌 Pipeline Overview**
+## ** Pipeline Overview**
 
 ### **Step 1 — Import Libraries**
 Core libraries for:
@@ -102,5 +102,5 @@ Metrics:
 
 ---
 
-Calibration formula:
+
 
